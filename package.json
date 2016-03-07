@@ -1,0 +1,23 @@
+{
+  "name": "a",
+  "version": "1.0.0",
+  "description": "a",
+  "main": "server.js",
+  "scripts": {
+    "test": "a",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "a"
+  },
+  "keywords": [
+    "a"
+  ],
+  "author": "a",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^1.4.5"
+  },
+  "devDependencies": {}
+}
